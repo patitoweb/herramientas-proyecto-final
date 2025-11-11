@@ -1,0 +1,4 @@
+Hola mundo
+Aprendiendo Python
+hOLA
+Archivos son fáciles
